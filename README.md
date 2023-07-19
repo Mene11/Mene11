@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber security Projects:</h2>
 
-  - [Actice Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Actice Directory Home Lab](https://github.com/Mene11/ActiveDirectoryLab/tree/main)
 
 <h2>📄 Certifications</h2>
 
